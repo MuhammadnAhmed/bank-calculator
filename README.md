@@ -1,3 +1,19 @@
+# Online Banking System
+
+This project is a simple online banking system built with React. It allows users to manage their bank accounts by performing various transactions such as depositing money, withdrawing money, adding interest, and charging bank fees.
+
+## Features
+
+- **Deposit**: Users can deposit money into their account.
+- **Withdrawal**: Users can withdraw money from their account.
+- **Interest**: Users can add interest to their account balance.
+- **Fees**: Users can charge bank fees from their account balance.
+
+## Technologies Used
+
+- React
+- Bootstrap (for styling)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
